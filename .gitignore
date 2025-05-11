@@ -1,3 +1,36 @@
-# macOS stuff:
+# macOS stuff
 .DS_Store
-/notes
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# internal notes
+/notes/
+
+# rust build artifacts
+/target/
+**/*.rs.bk
+**/debug/
+**/target/
+*.d
+*.rlib
+*.rmeta
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.lock
+*.bin
+CACHEDIR.TAG
+.cargo-lock
+.rustc_info.json
+**/invoked.timestamp
+**/lib-*.json
+**/dep-*.json
+**/lib-*
+
+# executables
+/mycal
+/mycal.exe

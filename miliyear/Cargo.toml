@@ -1,0 +1,21 @@
+[package]
+name = "miliyear"
+version = "0.1.0"
+edition = "2024"
+authors = ["uraniumcovid <hel_rust@proton.me>"]
+description = "decimal calendar system based on the year as the base unit and the mili-year as the main day-to-day unit"
+repository = "https://github.com/uraniumcovid/miliyear"
+license = "MIT"
+
+[dependencies]
+chrono = "0.4"  # for traditional date/time handling
+time = "0.3"    # alternative time library
+clap = { version = "4.4", features = ["derive"] }  # for cli arguments
+
+[lib]
+name = "milliyear"
+path = "src/lib.rs"
+
+[[bin]]
+name = "mycal"
+path = "src/bin/mycal.rs"
