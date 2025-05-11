@@ -6,7 +6,7 @@ the idea of this project is make an alternative decimal calendar system based on
 
 ## definitions
 ### the miliyear
-since the earth rotates about $2 \pi$ radians/solar year, we simplify divide the year into 1000 units, **miliyears**. so each miliyear corresponds to the time taken to rotate $\frac{2\pi}{10^3}$ radians ($1\, \text{my} \sim 8.77 h$).
+since the earth rotates about $2 \pi$ radians/solar year, we simplify divide the year into 1000 units, **miliyears**. so each miliyear corresponds to the time taken to rotate $\frac{2\pi}{10^3}$ radians ($1 \text{my} \sim 8.77 h$).
 
 therefore, the main "day-to-day" unit is now 8.77 hours long. we can of course also define the microyear, nanoyear etc., since we are simply treating dates as decimal numbers.
 
