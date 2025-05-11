@@ -1,6 +1,6 @@
-![Alt text](images/miliyear-logo.png)
-
 # miliyear calendar system
+![miliyear calendar system logo](images/miliyear-logo.png)
+
 ## the idea
 the idea of this project is make an alternative decimal calendar system based on the year as the standard unit instead of the day, so we can use decimal time division without redefining the second or getting out of sync with the solar year.
 
