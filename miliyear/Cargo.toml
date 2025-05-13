@@ -2,7 +2,7 @@
 name = "miliyear"
 version = "0.1.0"
 edition = "2024"
-authors = ["uraniumcovid <hel_rust@proton.me>"]
+authors = ["uraniumcovid <yet-another-email-adress-using-proton@proton.me>"]
 description = "decimal calendar system based on the year as the base unit and the mili-year as the main day-to-day unit"
 repository = "https://github.com/uraniumcovid/miliyear"
 license = "MIT"
