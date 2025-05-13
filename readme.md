@@ -31,7 +31,7 @@ since it is stupid to start a year in the middle of a season, nobody likes janua
 
 
 #### days of the week
-we will add three weekdays to the existing, following tradition of naming after astronomical objects in the solar system:
+we will add three weekdays to the existing, following the tradition of naming after astronomical objects in the solar system:
 
 - monday (mon)
 - tuesday (tue)
